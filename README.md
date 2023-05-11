@@ -1,2 +1,2 @@
 # cronjob-application
-Developed using cronjobs and schedular
+Developed application using cronjobs and schedular
